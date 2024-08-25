@@ -21,4 +21,4 @@ When it comes to object detection, popular detection frameworks are
 
 ## Author
 
-Abhishek Rajput.
+Ansh Sharma
